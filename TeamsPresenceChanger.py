@@ -1,5 +1,4 @@
 import requests
-import time
 
 class TeamsPresenceChanger:
     base_url = "https://presence.teams.microsoft.com/v1/me"
